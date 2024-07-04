@@ -1,0 +1,10 @@
+.f-container{
+    border: 3px solid gold;
+    margin-top: 200px;
+    text-align: center;
+}
+
+.f-container span{
+    padding: 20px;
+    font-size: 20px;
+}

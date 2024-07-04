@@ -1,0 +1,17 @@
+.header a{
+    padding: 35px;
+    font-size: 20px;
+    text-decoration: none;
+
+}
+
+.header-container{
+    border: 2px solid salmon;
+    background: rgb(142, 199, 202) ;
+    padding: 4px;
+}
+
+nav a.active{
+    text-decoration: underline;
+    color:rgb(155, 114, 10);
+}

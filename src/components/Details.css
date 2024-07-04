@@ -1,0 +1,10 @@
+.details-style{
+    border: 3px solid greenyellow;
+    text-align: center;
+    width: 700px;
+    height: 300px;
+}
+
+button{
+    padding: 5px 40px;
+}
